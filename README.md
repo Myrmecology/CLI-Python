@@ -1,6 +1,6 @@
 # CLI Todo App
 
-#### Video Demo: <URL HERE>
+
 
 #### Description:
 
